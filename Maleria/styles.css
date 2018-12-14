@@ -1,0 +1,17 @@
+.head-image {
+    background: url(./assets/cover.jpg) no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+.heading-text {
+    font-weight: 700;
+}
+
+.content-text {}
+
+.numeric{
+    list-style-type: decimal;
+}
